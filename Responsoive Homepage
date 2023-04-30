@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Ayush Thakur - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">thakurayush391@gmail.com</a>
+        <i class="bi bi-phone-fill phone-icon"></i> +91 82196 12700
+      </div>
+      <div class="social-links d-none d-md-block">
+        <a href="https://twitter.com/AyushTh38487193"target="_blank"class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100028886150933"target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/thakurji7608/"target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+      </div>
+    </div>
+  </section>b
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex align-items-center">
+
+      <h1 class="logo me-auto"><a href="index.html"Google ads </a></h1>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Google ads </span></h2>
+              <p class="animate__animated animate__fadeInUp">I will provide SEO Of every website to a good rank in Search engine result page</p>
+              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Google Ads </h2>
+              <p class="animate__animated animate__fadeInUp">Digital marketing is a type of online marketing of the product to various platforms like search engine platforms </p>
+              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown"></h2>
+              <p class="animate__animated animate__fadeInUp">search engine marketing socia media marketing Affiliate marketin Email marketing </p>
+              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Featured Services Section ======= -->
+    <section id="featured-services" class="featured-services section-bg">
+      <div class="container">
+
+        <div class="row no-gutters">
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-laptop"></i></div>
+              <h4 class="title"><a href="">Google ads </a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-briefcase"></i></div>
+              <h4 class="title"><a href=""</a>Role of Google Ads</h4>
+              <p class="description">The digital marketing career outlook for SEO specialists is strong. There is a great need for professionals who understand social media, content quality scoring, competitive analysis, mobile search, and website analytics.5</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-calendar4-week"></i></div>
+              <h4 class="title"><a href="">PPC</a></h4>
+              <p class="description">PPC Stands for pay per click model in digital marketing to use pay per</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Featured Services Section -->
+
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About Us</h2>
+          <p>It is a digital marketing website to provide better SEO of websites to greater ranking of SERP s</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2">
+            <img src="data:image/png;base64,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" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+            <h3>.</h3>
+            <p class="fst-italic">
+              This is my digital marketing website Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey.
+            </p>
+            <ul>
+              <li><i class="bi bi-check-circled"></i> Types of Google ads</li>
+              <li><i class="bi bi-check-circled"></i>Search engine marketing Affiliate marketing content marketing </li>
+              <li><i class="bi bi-check-circled"></i> Pay per click Email marketing Social media marketing </li>
+            </ul>
+            <p>
+              Search engine optimization, or SEO, is technically a marketing tool rather than a form of marketing in itself. The Balance defines it as “the art and science of making web pages attractive to search engines.”
+
+The "art and science" part of SEO is what’s most important. SEO is a science because it requires you to research and weigh different contributing factors to achieve the highest possible ranking on a serch engine results page (SERP).
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container">
+
+        <div class="row no-gutters">
+
+          <div class="col-lg-4 col-md-6 content-item">
+            <span>01</span>
+            <h4>Shooping ads </h4>
+            <p>Shooping ads that appear in Google shooping which is a specilized search engine for products 
+
+            </p>
+          </div>
+
+          <div class="col-lg-4 col-md-6 content-item">
+            <span>02</span>
+            <h4>App ads </h4>
+            <p>These are the ads that promote mobile apps and they can appear within other apps on the Google play store </p>
+          </div>
+
+          <div class="col-lg-4 col-md-6 content-item">
+            <span>03</span>
+            <h4>Local ads  </h4>
+            <p>Theae are the ads that target users in specific geographic locations such as a city </p>
+          </div>
+
+          <div class="col-lg-4 col-md-6 content-item">
+            <span>04</span>
+            <h4></h4>
+          <div class="col-lg-4 col-md-6 content-item">
+            <span>05</span>
+x
+          <div class="col-lg-4 col-md-6 content-item">
+            <span>06</span>
+            <h4>Discovery ads </h4>
+            <p>These are the ads that appear in Google discover which is a personalized news feed that appears on the Google mobile app</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
+
+    <!-- ======= Our Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Our Clients</h2>
+          <p></p>
+        </div>
+
+        <div class="clients-slider swiper">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Our Clients Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>SEO keyword ranking keyword research to greater ranking of the website in Search engine result page </p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <div class="icon">
+                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,521.0016835830174C376.1290562159157,517.8887921683347,466.0731472004068,529.7835943286574,510.70327084640275,468.03025145048787C554.3714126377745,407.6079735673963,508.03601936045806,328.9844924480964,491.2728898941984,256.3432110539036C474.5976632858925,184.082847569629,479.9380746630129,96.60480741107993,416.23090153303,58.64404602377083C348.86323505073057,18.502131276798302,261.93793281208167,40.57373210992963,193.5410806939664,78.93577620505333C130.42746243093433,114.334589627462,98.30271207620316,179.96522072025542,76.75703585869454,249.04625023123273C51.97151888228291,328.5150500222984,13.704378332031375,421.85034740162234,66.52175969318436,486.19268352777647C119.04800174914682,550.1803526380478,217.28368757567262,524.383925680826,300,521.0016835830174"></path>
+                </svg>
+                <i class="bx bxl-dribbble"></i>
+              </div>
+              <h4><a href="">keyword research </a></h4>
+              <p>Keyword research is a technique to search a high pa da keyword to the greater ranking of website </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box iconbox-orange ">
+              <div class="icon">
+                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,582.0697525312426C382.5290701553225,586.8405444964366,449.9789794690241,525.3245884688669,502.5850820975895,461.55621195738473C556.606425686781,396.0723002908107,615.8543463187945,314.28637112970534,586.6730223649479,234.56875336149918C558.9533121215079,158.8439757836574,454.9685369536778,164.00468322053177,381.49747125262974,130.76875717737553C312.15926192815925,99.40240125094834,248.97055460311594,18.661163978235184,179.8680185752513,50.54337015887873C110.5421016452524,82.52863877960104,119.82277516462835,180.83849132639028,109.12597500060166,256.43424936330496C100.08760227029461,320.3096726198365,92.17705696193138,384.0621239912766,124.79988738764834,439.7174275375508C164.83382741302287,508.01625554203684,220.96474134820875,577.5009287672846,300,582.0697525312426"></path>
+                </svg>
+                <i class="bx bx-file"></i>
+              </div>
+              <h4><a href="">Semrush Tool</a></h4>
+              <p>Semrush is an SEO tool that does your keyword research, tracks the keyword strategy your competition uses, runs an SEO audit of your blog, looks for backlinking opportunities, and lots more. Internet marketers all over the world trust Semrush. It is also used by a number of businesses, big and small.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box iconbox-pink">
+              <div class="icon">
+                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,541.5067337569781C382.14930387511276,545.0595476570109,479.8736841581634,548.3450877840088,526.4010558755058,480.5488172755941C571.5218469581645,414.80211281144784,517.5187510058486,332.0715597781072,496.52539010469104,255.14436215662573C477.37192572678356,184.95920475031193,473.57363656557914,105.61284051026155,413.0603344069578,65.22779650032875C343.27470386102294,18.654635553484475,251.2091493199835,5.337323636656869,175.0934190732945,40.62881213300186C97.87086631185822,76.43348514350839,51.98124368387456,156.15599469081315,36.44837278890362,239.84606092416172C21.716077023791087,319.22268207091537,43.775223500013084,401.1760424656574,96.891909868211,461.97329694683043C147.22146801428983,519.5804099606455,223.5754009179313,538.201503339737,300,541.5067337569781"></path>
+                </svg>
+                <i class="bx bx-tachometer"></i>
+              </div>
+              <h4><a href=""></a></h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-yellow">
+              <div class="icon">
+                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,503.46388370962813C374.79870501325706,506.71871716319447,464.8034551963731,527.1746412648533,510.4981551193396,467.86667711651364C555.9287308511215,408.9015244558933,512.6030010748507,327.5744911775523,490.211057578863,256.5855673507754C471.097692560561,195.9906835881958,447.69079081568157,138.11976852964426,395.19560036434837,102.3242989838813C329.3053358748298,57.3949838291264,248.02791733380457,8.279543830951368,175.87071277845988,42.242879143198664C103.41431057327972,76.34704239035025,93.79494320519305,170.9812938413882,81.28167332365135,250.07896920659033C70.17666984294237,320.27484674793965,64.84698225790005,396.69656628748305,111.28512138212992,450.4950937839243C156.20124167950087,502.5303643271138,231.32542653798444,500.4755392045468,300,503.46388370962813"></path>
+                </svg>
+                <i class="bx bx-layer"></i>
+              </div>
+              <h4><a href="On page SEO"></a></h4>
+              <p>On-page SEO (also known as on-site SEO) refers to the practice of optimizing webpages to improve a website's search engine rankings and earn organic traffic.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box iconbox-red">
+              <div class="icon">
+                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,532.3542879108572C369.38199826031484,532.3153073249985,429.10787420159085,491.63046689027357,474.5244479745417,439.17860296908856C522.8885846962883,383.3225815378663,569.1668002868075,314.3205725914397,550.7432151929288,242.7694973846089C532.6665558377875,172.5657663291529,456.2379748765914,142.6223662098291,390.3689995646985,112.34683881706744C326.66090330228417,83.06452184765237,258.84405631176094,53.51806209861945,193.32584062364296,78.48882559362697C121.61183558270385,105.82097193414197,62.805066853699245,167.19869350419734,48.57481801355237,242.6138429142374C34.843463184063346,315.3850353017275,76.69343916112496,383.4422959591041,125.22947124332185,439.3748458443577C170.7312796277747,491.8107796887764,230.57421082200815,532.3932930995766,300,532.3542879108572"></path>
+                </svg>
+                <i class="bx bx-slideshow"></i>
+              </div>
+              <h4><a href="">off page SEO</a></h4>
+              <p>"Off-page SEO" (also called "off-site SEO") refers to actions taken outside of your own website to impact your rankings within search engine results pages (SERPs)</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box iconbox-teal">
+              <div class="icon">
+                <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,566.797414625762C385.7384707136149,576.1784315230908,478.7894351017131,552.8928747891023,531.9192734346935,484.94944893311C584.6109503024035,417.5663521118492,582.489472248146,322.67544863468447,553.9536738515405,242.03673114598146C529.1557734026468,171.96086150256528,465.24506316201064,127.66468636344209,395.9583748389544,100.7403814666027C334.2173773831606,76.7482773500951,269.4350130405921,84.62216499799875,207.1952322260088,107.2889140133804C132.92018162631612,134.33871894543012,41.79353780512637,160.00259165414826,22.644507872594943,236.69541883565114C3.319112789854554,314.0945973066697,72.72355303640163,379.243833228382,124.04198916343866,440.3218312028393C172.9286146004772,498.5055451809895,224.45579914871206,558.5317968840102,300,566.797414625762"></path>
+                </svg>
+                <i class="bx bx-arch"></i>
+              </div>
+              <h4>Keywords<a href=""></a></h4>
+              <p>It is word or pharases that describe your product or serrvice </p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-start">
+            <h3>Call To Action</h3>
+            <p>.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#">Call To Action</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Portfolio</h2>
+          <p>I will provide all SEO Services to greater ranking of your website to the Search engine result pages</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">SEO</li>
+              <li data-filter=".filter-card">SEM</li>
+              <li data-filter=".filter-web">Affiliate Marketing</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/seo.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>SEO</h4E>
+                <p>I can give best SEO tips and tricks to manage Your Website</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/seo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="data:image/png;base64,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" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/seo.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>SEO</h4>
+                <p>Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic.</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/seo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="C:\Users\AYUSH THAKUR\Desktop\download.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>SEM</h4>
+                <p>Search engine marketing is a form of Internet marketing that involves the promotion of websites by increasing their visibility in search engine results pages primarily through paid advertising.</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src=""C:\Users\AYUSH THAKUR\Desktop\download.png"" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/seo.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>SEO</h4>
+                <p>jhwgdhfdsbfdshmbfdbhmbfmndbjnmdbnmdfbmfdbdmfnb</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/seo.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src=""C:\Users\AYUSH THAKUR\Desktop\download (1).png"" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Affiliate Marketing</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="C:\Users\AYUSH THAKUR\Desktop\download (1).png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Affiliate marketing</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="C:\Users\AYUSH THAKUR\Desktop\download (1).png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Affiliate marketing</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>This is my contact Section to any help to call me and my social media profiles </p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Location:</h4>
+                <p>VPO Batran Teh Nadaun Hamirpur H.P 177042</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>thakurayush391@gmail.com</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p>+91 82196 12700</p>
+              </div>
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18172.706725207903!2d76.37276441455886!3d31.712501753586327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b2c7587728853%3A0xde0fe30c64d3dd22!2sD.P.F.Batran%2C%20Himachal%20Pradesh%20177042!5e1!3m2!1sen!2sin!4v1669105412958!5m2!1sen!2sin" width="100%" height="292px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+          </div>
+
+          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="form-group col-md-6">
+                  <label for="name">Your Name</label>
+                  <input type="text" name="name" class="form-control" id="name" required>
+                </div>
+                <div class="form-group col-md-6 mt-3 mt-md-0">
+                  <label for="name">Your Email</label>
+                  <input type="email" class="form-control" name="email" id="email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <label for="name">Subject</label>
+                <input type="text" class="form-control" name="subject" id="subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <label for="name">Message</label>
+                <textarea class="form-control" name="message" rows="10" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <h3>Ayush Thakur</h3>
+      <p>Contact me 8219612700</p>
+      <div class="social-links">
+        <a href="https://twitter.com/AyushTh38487193" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100028886150933"target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.instagram.com/thakurji7608/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+      </div>
+      <div class="copyright">
+        &copy; Copyright <strong><span>Ayush</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        Designed by <a href="#">Ayush Thakur</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
